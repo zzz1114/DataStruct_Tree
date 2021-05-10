@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="DataStruct_Tree" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Option virtualFolders="Tree\;Stack\;Queue\;CSTree\;FileTest\;" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/DataStruct_Tree" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/DataStruct_Tree" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+		</Compiler>
+		<Unit filename="CSTree.c">
+			<Option compilerVar="CC" />
+			<Option virtualFolder="CSTree/" />
+		</Unit>
+		<Unit filename="CSTree.h">
+			<Option virtualFolder="CSTree/" />
+		</Unit>
+		<Unit filename="ElementType.h" />
+		<Unit filename="FileTest.c">
+			<Option compilerVar="CC" />
+			<Option virtualFolder="FileTest/" />
+		</Unit>
+		<Unit filename="FileTest.h">
+			<Option virtualFolder="FileTest/" />
+		</Unit>
+		<Unit filename="Haffman.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Haffman.h" />
+		<Unit filename="LInkedQueue.c">
+			<Option compilerVar="CC" />
+			<Option virtualFolder="Queue/" />
+		</Unit>
+		<Unit filename="LinkedQueue.h">
+			<Option virtualFolder="Queue/" />
+		</Unit>
+		<Unit filename="Tree.c">
+			<Option compilerVar="CC" />
+			<Option virtualFolder="Tree/" />
+		</Unit>
+		<Unit filename="Tree.h">
+			<Option virtualFolder="Tree/" />
+		</Unit>
+		<Unit filename="main.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="stack.c">
+			<Option compilerVar="CC" />
+			<Option virtualFolder="Stack/" />
+		</Unit>
+		<Unit filename="stack.h">
+			<Option virtualFolder="Stack/" />
+		</Unit>
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

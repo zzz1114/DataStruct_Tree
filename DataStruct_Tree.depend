@@ -1,0 +1,67 @@
+# depslib dependency file v1.0
+1620658423 source:d:\c-c++\c\datastruct_second\tree\datastruct_tree\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Tree.h"
+	"stack.h"
+	"CSTree.h"
+	"Haffman.h"
+
+1620045882 d:\c-c++\c\datastruct_second\tree\datastruct_tree\tree.h
+	"ElementType.h"
+
+1619528264 d:\c-c++\c\datastruct_second\tree\datastruct_tree\elementtype.h
+
+1620046206 source:d:\c-c++\c\datastruct_second\tree\datastruct_tree\tree.c
+	"Tree.h"
+	"stack.h"
+	"LinkedQueue.h"
+	<stdio.h>
+	<stdlib.h>
+
+1620028646 source:d:\c-c++\c\datastruct_second\tree\datastruct_tree\stack.c
+	"stack.h"
+	"ElementType.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1619548005 d:\c-c++\c\datastruct_second\tree\datastruct_tree\stack.h
+	"Tree.h"
+
+1620046206 source:d:\c-c++\c\datastruct_second\tree\datastruct_tree\linkedqueue.c
+	"LinkedQueue.h"
+	<stdio.h>
+	<stdlib.h>
+
+1620041509 d:\c-c++\c\datastruct_second\tree\datastruct_tree\linkedqueue.h
+	"ElementType.h"
+	"Tree.h"
+
+1620097152 source:d:\c-c++\c\datastruct_second\tree\datastruct_tree\cstree.c
+	"CSTree.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1620095762 d:\c-c++\c\datastruct_second\tree\datastruct_tree\cstree.h
+
+1620134489 source:d:\c-c++\c\datastruct_second\tree\datastruct_tree\filetest.c
+	"FileTest.h"
+
+1620124305 d:\c-c++\c\datastruct_second\tree\datastruct_tree\filetest.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<dir.h>
+	<sys/stat.h>
+	<dirent.h>
+
+1620657988 source:d:\c-c++\c\datastruct_second\tree\datastruct_tree\haffman.c
+	"Haffman.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1620481995 d:\c-c++\c\datastruct_second\tree\datastruct_tree\haffman.h
+
